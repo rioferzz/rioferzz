@@ -1,5 +1,10 @@
 
 <p align="center">
+  <a href="https://www.yoyalabs.com/">
+    <img width="90%" src="https://img.shields.io/badge/yoyalabs.com-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e&color=7b2ff7" alt="Open Rio Website" />
+  </a>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rioferzz&style=flat-square&color=blueviolet" alt="profile views" />
   <a href="https://github.com/rioferzz?tab=followers">
     <img src="https://img.shields.io/github/followers/rioferzz?label=Follow&style=social" alt="GitHub followers" />
@@ -10,7 +15,7 @@
 
 # About Me
 
-I'm interested in and currently learning **Computer Networking**, **VPS**, **IoT**, and **日本語**.
+I'm interested in and currently learning **Electronics Engineering**, **Computer Networking**, **VPS**, **IoT**, and **日本語**.
 
 I believe programming is a new form of literacy and English is the key that unlocks most of the world's knowledge, online and offline. Even knowing a few words goes a long way.
 
