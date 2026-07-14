@@ -1,15 +1,9 @@
+<p align="center">
+  <a href="https://www.yoyalabs.com">
+    <img src="/src/yoyalabs.png" alt="Alt text">
+  </a>
+</p>
 
-<p align="center">
-  <a href="https://www.yoyalabs.com/">
-    <img width="90%" src="https://img.shields.io/badge/yoyalabs.com-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e&color=7b2ff7" alt="Open Rio Website" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rioferzz&style=flat-square&color=blueviolet" alt="profile views" />
-  <a href="https://github.com/rioferzz?tab=followers">
-    <img src="https://img.shields.io/github/followers/rioferzz?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-</p>
 
 ---
 
